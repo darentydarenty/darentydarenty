@@ -4,7 +4,7 @@
 Являюсь основателем технологического стартапа, ориентированного на тату-бизнес.
   
 ### Стек технологий 🖥
-`Python` `PostgreSQL`
-`numpy` `pandas` `matplotlib` `seaborn`
-`sklearn` `lightgbm` `catboost` `statsmodels`
+`Python` `PostgreSQL`  
+`numpy` `pandas` `matplotlib` `seaborn`  
+`sklearn` `lightgbm` `catboost` `statsmodels`  
 `tensorflow`
