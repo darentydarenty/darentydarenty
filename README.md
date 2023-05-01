@@ -5,6 +5,6 @@
   
 ### Стек технологий 🖥
 `Python` `PostgreSQL`  
-`numpy` `pandas` `matplotlib` `seaborn`
+`numpy` `pandas` `matplotlib` `seaborn`  
 `sklearn` `lightgbm` `catboost` `statsmodels`  
 `tensorflow` `torch`
