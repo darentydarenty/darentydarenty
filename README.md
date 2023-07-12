@@ -8,7 +8,7 @@
 3. Различные учебные проекты и хакатоны, подробнее в репозиториях.
 
 ### Стек технологий ⚙️
-`Python` `PostgreSQL` `Oracle DB`  
+`Python` `PostgreSQL` `Oracle DB` `Dremio`  
 `numpy` `pandas` `matplotlib` `seaborn`  
 `sklearn` `lightgbm` `catboost` `statsmodels`  
 `tensorflow` `torch`
