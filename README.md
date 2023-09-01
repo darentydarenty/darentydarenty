@@ -1,14 +1,14 @@
-## Привет, мир! 👋
-Меня зовут Даниил, я студент направления "Прикладная информатика" в МГТУ Станкин.  
-На протяжении года увлекаюсь наукой о данных и машинным обучением.  
-Являюсь основателем технологического стартапа, ориентированного на тату-бизнес.
+## Hello there! 👋
+I'm student of MSTU STANKIN, studying Computer Science.  
+I have been interested in data science and machine learning for a year.  
+I am the founder of a technology startup focused on the tattoo business.  
 
-### Опыт работы 🤓
-1. **Младший системный аналитик ETL/DWH** в ООО "Комлоджик" с июня 2023 года по настоящее время.
-3. Различные учебные проекты и хакатоны, подробнее в репозиториях.
+### Experience 🤓
+1. **Junior System Analyst ETL/DWH** at Comlogic LLC from June 2023 to the present.  
+2. Various educational projects and hackathons, more details in the repositories.  
 
-### Стек технологий ⚙️
-`Python` `PostgreSQL` `OracleDB` `Dremio`  
+### Technologies ⚙️
+`Python` `PostgreSQL` `OracleDB` `Dremio` `Docker`
 `numpy` `pandas` `matplotlib` `seaborn`  
 `sklearn` `lightgbm` `catboost` `statsmodels`  
 `tensorflow` `pytorch`
