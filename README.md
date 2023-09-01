@@ -1,5 +1,5 @@
 ## Hello there! 👋
-I'm student of MSTU STANKIN, studying Computer Science.  
+I'm student of MSUT STANKIN, studying Computer Science.  
 I have been interested in data science and machine learning for a year.  
 I am the founder of a technology startup focused on the tattoo business.  
 
