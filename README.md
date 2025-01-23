@@ -5,7 +5,7 @@
 - But now I'm on the path of a data engineer.
 
 ### Experience 🤓
-1. **Data Platform Engineer** at Samokat.tech from May 2024 to the present.
+1. **Middle Data Support Engineer** at Ecom.tech from May 2024 to the present.
 2. **System Analyst ETL/DWH** at Comlogic from June 2023 to March 2024.  
 3. Various educational projects and hackathons, more details in the repositories.  
 
